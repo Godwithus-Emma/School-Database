@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "or05c9FYY8vrMyIHzDfejmmzbw+sgdce3GX8AIAFGrAMXJqYstGZ18oJE9Qhl6gTrte1EwJTy2s6cge5MNOk0A==",
+  "success": true,
+  "projectFilePath": "E:\\CODE\\SIT\\PRACTICE\\School Database\\School Database\\School Database.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
